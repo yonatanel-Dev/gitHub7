@@ -1,2 +1,3 @@
 1st line in file
 2nd line in local
+3rd line on my newBranch
